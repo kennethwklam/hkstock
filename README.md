@@ -1,2 +1,2 @@
 # hkstock
-https://gist.github.com/p768lwy3
+Python Source: https://gist.github.com/p768lwy3
